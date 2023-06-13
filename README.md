@@ -2,6 +2,11 @@
 
 En este respositorio se encontrará la conexión y consumo de una base de datos SQL utilizando jdbc driver
 
+<a href="Documentación"><img src="https://img.shields.io/badge/Doc-Actualizada-informational"></a>
+<a href="Status"><img src="https://img.shields.io/badge/Status-Success-success"></a>
+<a href="Lenguaje"><img src="https://img.shields.io/badge/Lenguaje-Python-blue"></a>
+<a href="License"><img src="https://img.shields.io/badge/License-MIT-important"></a>
+
 ## Requisitos
 
 Asegúrate de tener instalado lo siguiente:
@@ -37,4 +42,4 @@ Puedes modificar el archivo App.java para realizar otras operaciones de base de 
 Luego se muestra un ejemplo de cómo utilizar la función querySelecEmployeeAll para seleccionar todos los empleados de la tabla "employees" en la base de datos
 
 ## Licencia
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
